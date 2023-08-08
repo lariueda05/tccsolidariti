@@ -1,0 +1,48 @@
+.field1 h3, input, textarea, select{
+    text-align: center;
+    display: block;
+    width: 80%;
+    padding: .5rem .8rem .5rem .8rem;
+    margin: .9vw 0 ;
+    border:0;
+    border-radius: 5px;
+    font-size: 20px;
+    margin-bottom: 5px;
+}
+
+.form_step{
+    background-color: #a24aaa;
+    border: none;
+    border-radius: 12px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: -ms-flexbox;
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+.field1 p{
+    text-align: center;
+    display: inline-block;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: aliceblue;
+    border-radius: 10px;
+}
+
+.field1 label{ 
+    text-align: center;
+    display: block;
+    width: 80%;
+    padding: .5rem .8rem .5rem .8rem;
+    margin: .9vw 0 ;
+    border:0;
+    border-radius: 5px;
+    font-size: 22px;
+    margin-bottom: 5px;
+    font-weight: bold
+
+}
